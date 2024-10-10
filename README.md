@@ -1,6 +1,8 @@
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bbakkomm)](https://solved.ac/bbakkomm)
+
 <!--타이틀 부분-->
 <div align="center">
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bbakkomm)](https://solved.ac/bbakkomm)
+  
 </div>
 
 <div align="center">
