@@ -10,7 +10,7 @@
 </div>
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bbakkomm&theme=dracula&locale=ko)](https://git.io/streak-stats)
+![Codewars](https://github.r2v.ch/codewars?user=bbakkomm&stroke=%23BB432C)
 
 </div>
 <div align="center">
