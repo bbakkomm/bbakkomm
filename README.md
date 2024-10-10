@@ -10,7 +10,7 @@
 </div>
 <div align="center">
 
-![Codewars](https://github.r2v.ch/codewars?user=bbakkomm&stroke=%23BB432C)
+![Codewars](https://github.r2v.ch/codewars?user=bbakkomm&top_languages=true)
 
 </div>
 <div align="center">
