@@ -3,13 +3,21 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bbakkomm)](https://solved.ac/bbakkomm)
 
 </div>
+<div align="center">
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/bbakkomm/?theme=unicorn&font=baloo&extension=null)
 
+</div>
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=bbakkomm&theme=dracula&locale=ko)](https://git.io/streak-stats)
+
+</div>
+<div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbakkomm&layout=compact&theme=tokyonight)
 
+</div>
 <!--타이틀 부분-->
 <div align="center"></div>
 
@@ -79,7 +87,3 @@
       src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
-
-<style>
-  .markdown-body p, .markdown-body blockquote, .markdown-body ul, .markdown-body ol, .markdown-body dl, .markdown-body table, .markdown-body pre, .markdown-body details { text-align: center;}
-</style>
