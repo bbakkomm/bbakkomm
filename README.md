@@ -1,5 +1,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bbakkomm)](https://solved.ac/bbakkomm)
-![Leetcode Stats](https://leetcard.jacoblin.cool/bbakkomm)
+![Leetcode Stats](https://leetcard.jacoblin.cool/bbakkomm/?theme=unicorn&font=baloo&extension=null)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbakkomm&layout=compact&theme=tokyonight)
 <!--타이틀 부분-->
 <div align="center">
