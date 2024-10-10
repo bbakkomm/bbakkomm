@@ -10,7 +10,7 @@
 </div>
 <div align="center">
 
-![Codewars](https://github.r2v.ch/codewars?user=bbakkomm&top_languages=true)
+![Codewars](https://github.r2v.ch/codewars?user=bbakkomm&top_languages=true&theme=gradient&stroke=%23BB432C)
 
 </div>
 <div align="center">
