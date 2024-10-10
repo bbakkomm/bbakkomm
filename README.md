@@ -1,12 +1,13 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bbakkomm)](https://solved.ac/bbakkomm)
+<div align="center"></div>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/bbakkomm/?theme=unicorn&font=baloo&extension=null)
+<div align="center"></div>
 [![GitHub Streak](https://streak-stats.demolab.com?user=bbakkomm&theme=dracula&locale=ko)](https://git.io/streak-stats)
+<div align="center"></div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbakkomm&layout=compact&theme=tokyonight)
 
 <!--타이틀 부분-->
-<div align="center">
-  
-</div>
+<div align="center"></div>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
