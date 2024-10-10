@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bbakkomm)](https://solved.ac/bbakkomm)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbakkomm)](https://solved.ac/bbakkomm/)
 
 </div>
 <div align="center">
