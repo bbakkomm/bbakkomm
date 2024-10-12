@@ -1,21 +1,24 @@
-<div align="center">
+<div style="width: 100%; height: auto; display: flex;">
+<div align="center" style="width: 50%;">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbakkomm)](https://solved.ac/bbakkomm/)
 
 </div>
-<div align="center">
+<div align="center" style="width: 50%;">
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/bbakkomm/?theme=unicorn&font=baloo&extension=null)
 
 </div>
-<div align="center">
+<div align="center" style="width: 50%;">
 
 ![Codewars](https://github.r2v.ch/codewars?user=bbakkomm&top_languages=true&theme=gradient&stroke=%23BB432C)
 
 </div>
-<div align="center">
+<div align="center" style="width: 50%;">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbakkomm&layout=compact&theme=tokyonight)
+
+</div>
 
 </div>
 <!--타이틀 부분-->
