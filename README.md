@@ -5,6 +5,14 @@
 ![mazandi profile](https://mazandi.herokuapp.com/api?handle=bbakkomm&theme=warm)
   </div>
 
+  <br>
+
+  <div align="center" style="width: 50%;">
+
+![bbakkomm's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbakkomm&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbakkomm&layout=compact&theme=dracula)
+  </div>
+
 </div>
 
 <br>
