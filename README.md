@@ -1,14 +1,9 @@
 <div style="width: 100%; height: auto; display: flex;">
-<div align="center" style="width: 50%;">
+  <div align="center" style="width: 50%;">
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbakkomm)](https://solved.ac/bbakkomm)
 ![mazandi profile](https://mazandi.herokuapp.com/api?handle=bbakkomm&theme=warm)
-</div>
-<div align="center" style="width: 50%;">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbakkomm&layout=compact&theme=tokyonight)
-
-</div>
+  </div>
 
 </div>
 
@@ -19,9 +14,11 @@
   <a href="https://web-portfoliostudy-m26geil7668e23ca.sel4.cloudtype.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />&nbsp
   </a>
+  <a href="https://solved.ac/profile/bbakkomm">
+    <img src="https://img.shields.io/badge/Solved.ac-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
   <a href="mailto:bbakkomm@gmail.com">
-    <img
-      src="https://img.shields.io/badge/bbakkomm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/bbakkomm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 
