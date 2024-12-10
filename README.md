@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />&nbsp
   </a>
   <a href="https://solved.ac/profile/bbakkomm">
-    <img src="https://img.shields.io/badge/Solved.ac-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Solved.ac-D14836?style=for-the-badge&logo=render&logoColor=white"/>&nbsp
   </a>
   <a href="mailto:bbakkomm@gmail.com">
     <img src="https://img.shields.io/badge/bbakkomm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
