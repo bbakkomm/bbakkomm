@@ -12,6 +12,19 @@
 
 </div>
 
+<br>
+
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://web-portfoliostudy-m26geil7668e23ca.sel4.cloudtype.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />&nbsp
+  </a>
+  <a href="mailto:bbakkomm@gmail.com">
+    <img
+      src="https://img.shields.io/badge/bbakkomm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+</div>
+
 <br/>
 
 <!--내용 부분-->
@@ -102,17 +115,4 @@
 <div align="center">
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp
-</div>
-
-<br>
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://web-portfoliostudy-m26geil7668e23ca.sel4.cloudtype.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />&nbsp
-  </a>
-  <a href="mailto:bbakkomm@gmail.com">
-    <img
-      src="https://img.shields.io/badge/bbakkomm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
 </div>
