@@ -6,16 +6,6 @@
 </div>
 <div align="center" style="width: 50%;">
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/bbakkomm/?theme=unicorn&font=baloo&extension=null)
-
-</div>
-<div align="center" style="width: 50%;">
-
-![Codewars](https://github.r2v.ch/codewars?user=bbakkomm&top_languages=true&theme=gradient&stroke=%23BB432C)
-
-</div>
-<div align="center" style="width: 50%;">
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbakkomm&layout=compact&theme=tokyonight)
 
 </div>
