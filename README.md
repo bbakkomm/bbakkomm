@@ -1,8 +1,8 @@
 <div style="width: 100%; height: auto; display: flex;">
 <div align="center" style="width: 50%;">
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=bbakkomm)](https://solved.ac/profile/bbakkomm)
-
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbakkomm)](https://solved.ac/bbakkomm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=bbakkomm&theme=dark)
 </div>
 <div align="center" style="width: 50%;">
 
