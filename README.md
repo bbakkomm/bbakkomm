@@ -1,7 +1,9 @@
 <div style="width: 100%; height: auto; display: flex;">
 <div align="center" style="width: 50%;">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbakkomm)](https://solved.ac/bbakkomm/)
+<a href="https://solved.ac/profile/bbakkomm" target="_blank">
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbakkomm)](https://solved.ac/bbakkomm/)
+</a>
 
 </div>
 <div align="center" style="width: 50%;">
