@@ -2,7 +2,7 @@
   <div align="center" style="width: 50%;">
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbakkomm)](https://solved.ac/bbakkomm)
-![mazandi profile](https://mazandi.herokuapp.com/api?handle=bbakkomm&theme=cold)
+![mazandi profile](https://mazandi.herokuapp.com/api?handle=bbakkomm&theme=warm)
   </div>
 
 </div>
