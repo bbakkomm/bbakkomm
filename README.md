@@ -17,9 +17,6 @@
   <a href="https://solved.ac/profile/bbakkomm">
     <img src="https://img.shields.io/badge/Solved-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"/>&nbsp
   </a>
-  <a href="https://pitsec.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>&nbsp
-  </a>
   <a href="mailto:bbakkomm@gmail.com">
     <img src="https://img.shields.io/badge/bbakkomm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
