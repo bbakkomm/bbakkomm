@@ -16,7 +16,7 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://web-portfoliostudy-m26geil7668e23ca.sel4.cloudtype.app/">
+  <a href="https://web-portfoliostudy-m26geil7668e23ca.sel4.cloudtype.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />&nbsp
   </a>
   <a href="mailto:bbakkomm@gmail.com">
